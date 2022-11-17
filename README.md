@@ -6,7 +6,7 @@ O funcionamento do Quick Sort baseia-se em uma rotina fundamental cujo nome é p
 
 Vídeo sobre o funcionamento do algoritmo: https://www.youtube.com/watch?v=K4in_c9bMHs
 
-# Execução do Código sem Instalação, usando Compiladores Online
+## Execução do Código sem Instalação, usando Compiladores Online
 Java: https://www.programiz.com/java-programming/online-compiler/  
 
 C++: https://www.onlinegdb.com/online_c++_compiler  
